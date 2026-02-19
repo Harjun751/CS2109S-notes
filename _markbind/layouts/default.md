@@ -25,7 +25,7 @@
 * [Adversarial Search]({{ baseUrl }}/contents/week3.html)
 * [Machine Learning & Decision Trees]({{ baseUrl }}/contents/week4.html)
 * [Linear Regression]({{ baseUrl }}/contents/week5.html)
-* [Logistic Regression]({{baseurl}}/contents/week6.html)
+* [Logistic Regression]({{ baseUrl }}/contents/week6.html)
       </site-nav>
 </div>
   </nav>
