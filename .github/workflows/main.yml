@@ -13,5 +13,5 @@ jobs:
         uses: Harjun751/markbind-action@update-node-to-v22
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          baseUrl: '/2109s'
+          baseUrl: '/CS2109S-notes'
           version: '6.2.0'
