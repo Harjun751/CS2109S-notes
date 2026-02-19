@@ -15,3 +15,7 @@
 </div>
 
 This is an exclusive message from idk
+
+{{ baseUrl }}
+
+test 
