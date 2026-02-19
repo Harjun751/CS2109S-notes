@@ -1,0 +1,17 @@
+name: MarkBind Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs: 
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build & Deploy MarkBind site
+        uses: Harjun751/markbind-action@update-node-to-v22
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          baseUrl: '/2109s'
+          version: '6.2.0'
