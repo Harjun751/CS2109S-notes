@@ -1,0 +1,158 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "README.md",
+      "headings": {
+        "cs2109s-notes": "CS2109S-notes"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week1.md",
+      "title": "Intro | Week 1",
+      "headings": {
+        "hi": "Hi!"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week2.md",
+      "title": "Search | Week 2",
+      "headings": {
+        "search": "Search",
+        "designing-an-agent-to-do-search": "Designing an agent to do search",
+        "search-pseudocode": "Search pseudocode",
+        "terminology": "Terminology",
+        "evaluation-criteria": "Evaluation criteria",
+        "completeness": "Completeness",
+        "optimal": "Optimal",
+        "uninformed-search-algorithms": "Uninformed Search algorithms",
+        "bfs": "BFS",
+        "uniform-cost-search-ucs": "Uniform Cost Search (UCS)",
+        "dfs": "DFS",
+        "search-with-visited-memory": "Search With visited memory",
+        "informed-search-algorithms": "Informed Search Algorithms",
+        "heuristic": "Heuristic",
+        "best-first-search": "Best-first search",
+        "a-search": "A* Search",
+        "admissable-heuristics": "Admissable Heuristics",
+        "consistent-heuristics": "Consistent Heuristics",
+        "search-strategies": "Search Strategies",
+        "depth-limited-search": "Depth-limited search",
+        "iterative-deepening-search": "Iterative Deepening search"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week3.md",
+      "title": "Adversarial Search | Week 3",
+      "headings": {
+        "local-search": "Local Search",
+        "problem-formulation-in-local-search": "Problem formulation in Local Search",
+        "evaluation-functions": "Evaluation Functions",
+        "hill-climbing-algorithm": "Hill climbing algorithm",
+        "state-space-landscape": "State Space Landscape",
+        "adversarial-search": "Adversarial Search",
+        "multi-agent-problems": "Multi-agent problems",
+        "competitive-multi-agent-problems": "Competitive Multi-agent problems",
+        "turn-taking-games": "Turn-taking games",
+        "designing-an-agent-for-competitive-multi-agent-problems": "Designing an agent for competitive multi-agent problems",
+        "game-tree": "Game tree",
+        "problem-formulation": "Problem Formulation",
+        "algorithm-for-adversarial-search-minimax": "Algorithm for Adversarial Search: Minimax",
+        "analysis": "Analysis",
+        "the-problem-with-minimax": "The problem with Minimax",
+        "alpha-beta-pruning": "Alpha-Beta Pruning",
+        "alpha-beta-pruning-analysis": "Alpha-Beta Pruning analysis",
+        "imperfect-decisions-by-using-cutoff-on-top-of-alpha-beta": "Imperfect Decisions by Using Cutoff on top of Alpha-Beta",
+        "evaluation-function": "Evaluation Function",
+        "inventing-a-heuristic": "Inventing a heuristic",
+        "optimality-2": "Optimality"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week4.md",
+      "title": "Machine Learning & Decision Trees | Week 4",
+      "headings": {
+        "machine-learning": "Machine Learning",
+        "learning-agents": "Learning Agents",
+        "supervised-learning": "Supervised Learning",
+        "tasks-in-supervised-learning": "Tasks in Supervised Learning",
+        "data-formulation": "Data formulation",
+        "model": "Model",
+        "performance-measure-and-amp-loss": "Performance Measure &amp; Loss",
+        "learning-algorihtms": "Learning Algorihtms",
+        "decision-tree": "Decision Tree",
+        "entropy": "Entropy",
+        "specific-conditional-entropy": "Specific Conditional Entropy",
+        "conditional-entropy": "Conditional Entropy",
+        "information-gain": "Information Gain",
+        "decision-tree-learning": "Decision Tree Learning",
+        "dtl-functions": "DTL - Functions",
+        "dtl-base-case": "DTL - Base Case",
+        "dt-analysis": "DT analysis",
+        "theorem-representational-completeness-of-decision-tree": "Theorem (Representational completeness of Decision Tree)",
+        "dt-pruning": "DT pruning"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week5.md",
+      "title": "Linear Regression | Week 5",
+      "headings": {
+        "background": "Background",
+        "linear-regression": "Linear Regression",
+        "task-formulation": "Task Formulation",
+        "linear-models": "Linear Models",
+        "learning-via-normal-equations": "Learning via Normal Equations",
+        "viewing-input-output-as-a-matrix": "Viewing input/output as a matrix",
+        "the-normal-equation": "The Normal Equation",
+        "learning-via-gradient-descent": "Learning via Gradient Descent",
+        "multi-variable-gradient-descent": "Multi-Variable Gradient Descent",
+        "gradient-descent-analysis": "Gradient Descent - Analysis",
+        "a-problem-with-gradient-descent": "A problem with Gradient Descent",
+        "other-problems-in-gradient-descent": "Other problems in Gradient Descent",
+        "linear-regression-summary": "Linear Regression Summary",
+        "feature-transformation": "Feature Transformation"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week6.md",
+      "title": "Logistic Regression - Week 6",
+      "headings": {
+        "logistic-regression": "Logistic Regression",
+        "data-formulation": "Data Formulation",
+        "the-logistic-model": "The logistic model",
+        "classification-with-the-logistic-model": "Classification with the Logistic Model",
+        "the-decision-boundary": "The decision boundary",
+        "finding-the-best-logistic-model": "Finding the best logistic model",
+        "binary-cross-entropy-loss": "Binary Cross-Entropy Loss",
+        "convexity-of-loss-function": "Convexity of loss function",
+        "impossibility-of-learning-via-normal-equation": "Impossibility of learning via Normal Equation",
+        "learning-via-gradient-descent": "Learning via Gradient Descent",
+        "feature-transformation": "Feature Transformation",
+        "multi-class-classification": "Multi-Class classification",
+        "one-vs-one": "One-vs-One",
+        "one-vs-rest": "One-vs-Rest",
+        "multi-label-classification": "Multi-Label classification",
+        "common-techniques": "Common Techniques",
+        "generalization": "Generalization",
+        "dataset-quality": "Dataset quality",
+        "dataset-quantity": "Dataset Quantity",
+        "model-complexity": "Model Complexity",
+        "hyperparameters": "Hyperparameters",
+        "techniques-for-tuning": "Techniques for tuning"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Home Page",
+      "headings": {},
+      "headingKeywords": {}
+    }
+  ]
+}
