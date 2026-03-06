@@ -9,6 +9,40 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/midterms/2324s2.md",
+      "title": "AY23/24 CS2109S Midterm Practice",
+      "headings": {
+        "ay23-24-cs2109s-midterm-practice": "AY23/24 CS2109S Midterm Practice",
+        "search-formulation": "Search Formulation",
+        "uninformed-search": "Uninformed Search",
+        "local-search": "Local Search",
+        "heuristics-light-problem": "Heuristics: Light Problem",
+        "heuristics-light-variant-1": "Heuristics: Light Variant #1",
+        "decision-tree": "Decision Tree",
+        "full-decision-tree": "Full Decision Tree",
+        "decision-tree-performance-measurement": "Decision Tree Performance Measurement",
+        "game-tree-and-amp-minimax": "Game Tree &amp; Minimax",
+        "alpha-beta-pruning": "Alpha-beta Pruning"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/midterms/2425s1.md",
+      "title": "AY24/25 CS2109S Midterm Practice",
+      "headings": {
+        "ay24-25-cs2109s-midterm-practice": "AY24/25 CS2109S Midterm Practice",
+        "question-1-transwarp-conduits": "Question 1: Transwarp Conduits",
+        "question-2-transwarp-conduits-analysis": "Question 2: Transwarp Conduits: Analysis",
+        "question-3-minimum-region-transwarp-conduits": "Question 3: Minimum-Region Transwarp Conduits",
+        "question-4-fruit": "Question 4: Fruit",
+        "question-5-apple-and-banana": "Question 5: Apple and Banana",
+        "question-6-predicting-promotion-decision": "Question 6: Predicting Promotion Decision",
+        "question-7-gold-coin": "Question 7: Gold Coin",
+        "question-8-alpha-beta-pruning": "Question 8: Alpha-Beta Pruning"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/week1.md",
       "title": "Intro | Week 1",
       "headings": {
