@@ -66,7 +66,7 @@ TODO: Include mean squared error loss here.
 
 For EXPERIMENT 1, the best linear model will have $ w_0 > 0 $
   <div slot="reason">
-      I don't know dawg
+      Look at the y-intercept - it's actually negative if you shift the y line to true zero on X-axis.
   </div>
   </q-option>
   <q-option correct>

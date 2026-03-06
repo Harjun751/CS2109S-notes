@@ -26,6 +26,7 @@
 * [Machine Learning & Decision Trees]({{ baseUrl }}/contents/week4.html)
 * [Linear Regression]({{ baseUrl }}/contents/week5.html)
 * [Logistic Regression]({{ baseUrl }}/contents/week6.html)
+* [Midterm (2324)]({{ baseUrl }}/contents/midterms/2324.html)
       </site-nav>
 </div>
   </nav>
